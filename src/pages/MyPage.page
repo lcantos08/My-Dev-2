@@ -3,4 +3,5 @@
  -->
 
 <apex:page id="MyPage">
+Test Page
 </apex:page>
