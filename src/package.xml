@@ -476,9 +476,9 @@
         <members>*</members>
         <name>WorkflowTask</name>
     </types>
-    <types>
+    <!--types>
         <members>*</members>
         <name>Settings</name>
-    </types>
+    </types-->
     <version>43.0</version>
 </Package>
